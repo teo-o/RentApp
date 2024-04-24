@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rentapp.Shared", "Rentapp.Shared\Rentapp.Shared.csproj", "{B9B5131D-411A-46D8-B997-CFADDD8AC3B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rentapp.API", "Rentapp.API\Rentapp.API.csproj", "{6748DCAD-E801-4C06-A736-643456966E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B5131D-411A-46D8-B997-CFADDD8AC3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B5131D-411A-46D8-B997-CFADDD8AC3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B5131D-411A-46D8-B997-CFADDD8AC3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B5131D-411A-46D8-B997-CFADDD8AC3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6748DCAD-E801-4C06-A736-643456966E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6748DCAD-E801-4C06-A736-643456966E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6748DCAD-E801-4C06-A736-643456966E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6748DCAD-E801-4C06-A736-643456966E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F127CF-9E22-4C79-A062-12284B635206}
+	EndGlobalSection
+EndGlobal
